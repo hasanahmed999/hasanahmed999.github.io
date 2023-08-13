@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-Hi. My name's Hasan. I'm primarily a python developer with 2 years of experience with Python and 1 year of experience with SQL/Relational Databases. I had a stint at cisco where I worked on test automation for their routers and learned about networking. I also had experience working with clients at Broadridge where he did general bug fixes and implementation.
+Hi. My name's Hasan. I'm primarily a python developer with 2 years of experience with Python and 1 year of experience with SQL/Relational Databases. I had a stint at cisco where I worked on test automation for their routers and learned about networking. I also had experience working with clients at Broadridge where I did general bug fixes and implementation.
 
 I also have a side interest in cybersecurity and have been taking online networking courses and hope to work towards certain certifications to mix software and cybersecurity in some way in my career. I aim to get a cloud certification of some sort (GCP, AWS) as well as IT Certifications like the Security+ but would need hands-on experience in the IT field. 
 
